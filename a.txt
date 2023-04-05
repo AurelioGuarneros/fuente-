@@ -1,0 +1,13 @@
+[PASOS PARA SUBIR CAMBIOS]
+git add .
+git commit -m "[AQUI PONE EL MENSAJE QUE IRA EN EL COMMIT, OSEA QUE CAMBIOS ESTA SUBIENDO]"
+git push origin main
+
+[PASOS PARA BAJAR CAMBIOS]
+git fetch origin main
+
+[PASOS PARA CLONAR EL REPOSITORIO]
+git clone https://github.com/AurelioGuarneros/fuente-.git
+
+
+y ya c:
